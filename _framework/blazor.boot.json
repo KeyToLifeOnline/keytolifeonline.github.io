@@ -7,9 +7,9 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "KeyToLifeOnline.dll": "sha256-+pOdXUQJLGO93SDs17jGks+4sgmt1DE7bKIJYxDsCkI=",
+      "KeyToLifeOnline.dll": "sha256-Vq6mKQ1cKKHjBsC\/WyC7hNz5Oj5euDE7l0egghI5to8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-lyj3sBIvV1H7MhSXk9R8VO4W2EQloovqHp082tDiTrw=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-m8oOG\/MCNQeREBY9+5yiH\/tysKC+A3\/gOC8rtCavJSg=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-Diw69AkFeKqbNzdRiRqa7sy1Q50Kzavf0PoNiEdw6Eg=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-JtMacUL1qX8igT\/gXO9t9fzsI4kQV2XYo41h6DD0L04=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-X\/f4fDl2cuIRXeWHhK\/f2UqQbFioD+RU4a4CEh0zrrQ=",
       "Microsoft.Extensions.Configuration.dll": "sha256-DBOKSPriP2JDxVbbWrLXyD3K4\/x3RBifNBWk\/q1I39M=",
