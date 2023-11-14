@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "KeyToLifeOnline",
   "resources": {
-    "hash": "sha256-yH2YYDXZWUW89gDEy36rWaMMnRYddhiwk1hSnEwjqBE=",
+    "hash": "sha256-iSj3GK+KcIns/LTxyvlmhFsqA79LBymdOQcIW7r46fA=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.45ykigla5r.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "KeyToLifeOnline.wasm": "sha256-TQmWc7qQ/nJLQKZGBnzeXK8zkZDg4SoEUYrTlMKrcqI=",
+      "KeyToLifeOnline.wasm": "sha256-AKPFt5MI0NSEPZVcpStrBY3ocj6cduK6OvwJoBxydFA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-4V1+NPVsO3NMth0QsnTEHIoyjLoiC1Z/cY96vlLfnJ8=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-6Ii0xui1NKvy2fCRUKlkDuawuve/InLIwkk05KvTY+0=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-SF4AwjzzQI81/MSoTVnFD4gFZpg6LjqTKIEwEfND+74=",

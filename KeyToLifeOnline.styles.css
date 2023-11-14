@@ -1,5 +1,10 @@
 /* /Pages/Index.razor.rz.scp.css */
-#canvas[b-3xca04b8ts] {
-    width: 100%;
-    height: 100%;
+#background[b-3xca04b8ts] {
+  width: 100%;
+  height: 100%;
+  background-image: url('images/background.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
 }
